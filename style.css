@@ -2,10 +2,12 @@
   /*Everything on the page*/
   margin: 0;
   padding: 0;
+  background-color: #282929;
+  color: limegreen;
 }
 
 body{
-	background-color: #040404;
+	background-color: #282929;
 	color: limegreen;
 	/*web-safe*/
 	font-family: Arial,Helvetica,sans-serif;
