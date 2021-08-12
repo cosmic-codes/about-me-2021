@@ -1,6 +1,6 @@
 *{
   /*Everything on the page*/
-  margin: 20px 0;
+  margin: 20;
   padding: 0;
   background-color: #282929;
   color: #23fa38;
@@ -15,7 +15,7 @@ body{
 	font: normal 16px Arial,Helvetica,sans-serif ;*/
 
 	line-height: 1.6em;
-	margin: 0;
+	margin: 10px 20px;
 }
 
 a{
