@@ -1,8 +1,10 @@
 *{
-  /*Everything on the page*/
-  padding: 0;
-  background-color: #282929;
-  color: #23fa38;
+	/*Everything on the page*/
+	margin: 100px 200px;
+	padding: 0;
+	background-color: #282929;
+	color: #23fa38;
+	
 }
 
 body{
